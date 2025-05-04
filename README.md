@@ -1,3 +1,4 @@
+![Вигляд гри](https://github.com/visys-dev/.NET---Lab-04---PairGameKeyboard/blob/master/Lab04.gif)
 # PairGameKeyboard
 
 **WinForms “Парні Картинки”** — проста гра на запам’ятовування пар кольорів з підтримкою гнучкого розміру поля та керування клавіатурою й мишею.
